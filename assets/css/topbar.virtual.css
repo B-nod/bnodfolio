@@ -67,8 +67,8 @@
   height: 700px;
   z-index: 99;
   background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
+  background-size: cover;
+  background-position: center;
 }
 
 .page-home::before {
